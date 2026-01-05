@@ -1,0 +1,32 @@
+TYPE,CONTENT,REQUIRED,NO ANSWER,BEFORE,AFTER,MIN,MAX
+Title,Letterpress Workshop Survey,,,,,,
+Description,"Participação no Workshop de Tipografia de Caractéres Móveis, realizado por Rita Melo, no contexto do projeto de investigação do Mestrado em Design Gráfico e Projetos Editoriais, na Faculdade de Belas Artes da Universidade do Porto: Reabilitação e Valorização da Oficina Tipográfica da FBAUP: Investigação, Inventário e Promoção de Atividades Pedagógica, sob a Orientação do Prof. Pedro Amado e Co-Orientação da Prof. Graciela Machado.",,,,,,
+Separator,,,,,,,
+Question,Name,,,,,,
+Description,First and Last Names,,,,,,
+Answer,Text,Yes,No,,,,
+Question,Gender,,,,,,
+Description,Please provide your gender information (Female / Male / Non-Binary),,,,,,
+Answer,Two-Options,No,Yes,Female,Male,,
+Question,Email,,,,,,
+Description,Make sure to insert a valid email please,,,,,,
+Answer,Text,No,No,,,,
+Question,Attractiveness,,,,,,
+Description,"In my opinion, the workshop was generally",,,,,,
+Answer,Three-Option-Scale,Yes,No,Annoying,Enjoyable,-1,1
+Answer,Four-Option-Scale,Yes,No,Bad,Good,0,3
+Answer,Five-Option-Scale,Yes,No,Unpleasant,Pleasant,-2,2
+Answer,Seven-Option-Scale,Yes,No,Unfriendly,Friendly,1,7
+Separator,,,,,,,
+Question,Efficiency,,,,,,
+Description,"To achieve my goals, I consider the workshop was",,,,,,
+Answer,Seven-Option-Scale,Yes,No,slow,fast,1,7
+Answer,Seven-Option-Scale,Yes,No,inefficient,efficient,1,7
+Answer,Seven-Option-Scale,Yes,No,impractical,practical,1,7
+Answer,Seven-Option-Scale,Yes,No,cluttered,organized,1,7
+Separator,,,,,,,
+Question,By submiting you are allowing us to process your data.,,,,,,
+Answer,Checkbox,Yes,,,,,
+Separator,,,,,,,
+Submit,Submit Answers,,,,,,
+Confirm,Thank you for your form submission. For any other inquiry contact pamado@fba.up.pt. You may close this window now.,,,,,,
